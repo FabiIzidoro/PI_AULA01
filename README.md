@@ -33,4 +33,17 @@ Certifique-se de ter instalado:
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git](https://github.com/FabiIzidoro/PI_AULA01
+git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git](https://github.com/FabiIzidoro/PI_AULA01.
+``` 
+
+2. Instale as dependências:
+```bash
+npm install
+```
+3. Execute o servidor:
+```bash
+node app.js
+```
+O servidor será iniciado na porta 3000. Você pode acessar a API em http://localhost:3000.
+
+> Desenvolvido por Fabiana Izidoro Luz. Aluna do curso de Ciência da Computação - IFTM
